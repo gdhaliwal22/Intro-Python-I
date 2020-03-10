@@ -21,6 +21,9 @@ print(x)
 x.pop(4)
 print(x)
 
+# x.remove(8) <- explicitly remove the first matching value 8 from x
+# x.remove(x[4]) <- same thing but dynamically
+
 # Change x so that it is [1, 2, 3, 4, 9, 99, 10]
 # YOUR CODE HERE
 x.insert(5, 99)
