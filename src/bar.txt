@@ -1,0 +1,3 @@
+Place
+text in
+bar.txt
